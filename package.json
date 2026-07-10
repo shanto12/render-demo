@@ -1,0 +1,16 @@
+{
+  "name": "render-demo",
+  "version": "1.0.0",
+  "description": "A small web app deployed to Render via the Render API.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
